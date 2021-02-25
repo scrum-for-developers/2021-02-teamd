@@ -30,6 +30,13 @@
 		<action dev="akt" type="update">
 			Improved errormessages.
 		</action>
-	</release>
+		</release>
+
+		<release version="1.3.0" date="2021-02-25"
+		description="Upgrade springboot 2.2.9">
+		<action dev="akt" type="update">
+			Upgraded springboot.
+		</action>
+		</release>
 	</body>
 </document>
