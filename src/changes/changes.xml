@@ -38,5 +38,12 @@
 			Upgraded springboot.
 		</action>
 		</release>
+		<release version="1.4.0" date="2021-02-26"
+		description="Isbn vergleichen 2.2.9">
+		<action dev="akt" type="update">
+			Isbn vergleichen.
+		</action>
+		</release>
+	
 	</body>
 </document>
